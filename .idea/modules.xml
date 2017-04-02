@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/clientside-load-balancing-with-ribbon.iml" filepath="$PROJECT_DIR$/.idea/clientside-load-balancing-with-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/say-hello/say-hello.iml" filepath="$PROJECT_DIR$/say-hello/say-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
